@@ -6,5 +6,6 @@ public class Hello {
         System.out.println("change");
         System.out.println("еще проверка");
         System.out.println("проверка pull request");
+        System.out.println("new pull request");
     }
 }
